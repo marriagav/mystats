@@ -28,7 +28,7 @@ h2 {
   font-size: 16px;
   font-weight: 600;
   color: #61dafb;
-  fill: #61dafb;
+  fill: #ffffff;
 }
 
 ul {
@@ -91,7 +91,7 @@ div.ellipsis {
 }
 
 .percent {
-  color: rgb(88, 96, 105)
+  color: #ffffff;
 }
 </style>
 <g>
