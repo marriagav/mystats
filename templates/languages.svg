@@ -73,7 +73,7 @@ div.ellipsis {
   display: flex;
   height: 8px;
   overflow: hidden;
-  background-color: rgb(225, 228, 232);
+  background-color: rgb(32, 35, 42);
   border-radius: 6px;
   outline: 1px solid transparent;
   margin-bottom: 1em;
@@ -87,7 +87,7 @@ div.ellipsis {
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: #61dafb;
+  color: #ffffff;
 }
 
 .percent {
